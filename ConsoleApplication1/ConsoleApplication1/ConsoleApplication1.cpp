@@ -6,6 +6,9 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	int a = 3;
+	int b = 4;
+	int c = a + b;
 	return 0;
 }
 
